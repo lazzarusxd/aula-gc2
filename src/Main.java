@@ -6,7 +6,10 @@ public class Main {
 
         int multiplicacao = 2 * 8;
 
+        int divisao = 10 / 2;
+
         System.out.println("Soma feita: " + soma);
         System.out.println("Multiplicacao feita: " + multiplicacao);
+        System.out.println("Divisao feita: " + divisao);
     }
 }
