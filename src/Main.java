@@ -4,6 +4,9 @@ public class Main {
 
         int soma = 1 + 1;
 
+        int multiplicacao = 2 * 8;
+
         System.out.println("Soma feita: " + soma);
+        System.out.println("Multiplicacao feita: " + multiplicacao);
     }
 }
